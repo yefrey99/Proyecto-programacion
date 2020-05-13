@@ -4,7 +4,7 @@ A continuacion veran como instalar el programa y posteriormente se explicara com
 
 ## Instalacion del programa:
 
-1. Primero descargaremos el archivo.zip llamado proyecto programacion 2 y extraeremos el archivo.zip y nos quedara una carpeta llamada debug como se muestra en la siguiente imagen.
+1. Primero descargaremos el archivo.zip llamado proyecto programacion  y extraeremos el archivo.zip y nos quedara una carpeta llamada debug como se muestra en la siguiente imagen.
 
 ![imagen1](https://user-images.githubusercontent.com/61189051/81840786-1524c200-950f-11ea-9d35-72d58a0ffd30.png)
 
